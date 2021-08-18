@@ -1,0 +1,263 @@
+hi
+Hi! I am  your personal chatbot. Let’s get started. Ask me questions regarding the site or the services we provide.<br>You can also choose an option to proceed <button type="button" class="btn btn-primary btn-round" onclick="r()">What does Profcess offer</button><button type="button" class="btn btn-primary btn-round" onclick="r1()">Searching For Job</button><button type="button" class="btn btn-primary btn-round" onclick="r2()">Recruitment</button><button type="button" class="btn btn-primary btn-round" onclick="r3()">Services</button>
+get started
+Hi! I am  your personal chatbot. Let’s get started. Ask me questions regarding the site or the services we provide.<br>You can also choose an option to proceed <button type="button" class="btn btn-primary btn-round" onclick="r()">What does Profcess offer</button><button type="button" class="btn btn-primary btn-round" onclick="r1()">Searching For Job</button><button type="button" class="btn btn-primary btn-round" onclick="r2()">Recruitment</button><button type="button" class="btn btn-primary btn-round" onclick="r3()">Services</button>
+hello
+Hi! I am  your personal chatbot. Let’s get started. Ask me questions regarding the site or the services we provide.<br>You can also choose an option to proceed <button type="button" class="btn btn-primary btn-round" onclick="r()">What does Profcess offer</button><button type="button" class="btn btn-primary btn-round" onclick="r1()">Searching For Job</button><button type="button" class="btn btn-primary btn-round" onclick="r2()">Recruitment</button><button type="button" class="btn btn-primary btn-round" onclick="r3()">Services</button>
+kaise ho
+Absolutely fine.
+aap kaise ho
+Absolutely fine.
+how are you doing?
+Absolutely fine.
+how are you?
+Absolutely fine.
+what can you do?
+Whatever you want!!!
+ok
+Hope it helped.
+yes
+Great :)
+i don't know
+what do you want to know?
+fine
+Great!!!
+no
+Sorry, try with another keyword
+how to login
+Kindly go to login.
+not able to login?
+Kindly first signup & then you can login.
+how to sign up
+<center>Click on required option for signup <br><button  type="button" class="btn btn-primary btn-round" target="_blank"><a href="https://www.profcess.com/accounts/recruiter-signup/" target="_blank">Recruiter Signup</a></button><button type="button" class="btn btn-primary btn-round"><a href="https://www.profcess.com/accounts/applicant-signup/" target="_blank">Applicant Signup</a></button></center>
+okay
+signup
+<center>Click on required option for signup <br><button  type="button" class="btn btn-primary btn-round" target="_blank"><a href="https://www.profcess.com/accounts/recruiter-signup/" target="_blank">Recruiter Signup</a></button><button type="button" class="btn btn-primary btn-round"><a href="https://www.profcess.com/accounts/applicant-signup/" target="_blank">Applicant Signup</a></button></center>
+Hope it helped.
+i need help
+Feel free to ask anything. How can I help?
+ok
+Hope it helped.
+good
+I'm happy to help you :)
+your company
+Professional success an acronym for Prof-Cess aims to provide profitable, uncomplicated, and speedy solutions to our clients through technology-based strategy in the areas of recruitment, talent hiring, company branding, etc.
+about this site
+Professional success an acronym for Prof-Cess aims to provide profitable, uncomplicated, and speedy solutions to our clients through technology-based strategy in the areas of recruitment, talent hiring, company branding, etc.
+process
+Professional success an acronym for Prof-Cess aims to provide profitable, uncomplicated, and speedy solutions to our clients through technology-based strategy in the areas of recruitment, talent hiring, company branding, etc.
+who are you?
+Hello there. I am a chatbot. Want to chat about Profcess’s services? If you have any question, don’t be shy.
+how does your site works profcess.
+Professional success an acronym for Prof-Cess aims to provide profitable, uncomplicated, and speedy solutions to our clients through technology-based strategy in the areas of recruitment, talent hiring, company branding, etc.
+what is Process?
+Professional success an acronym for Prof-Cess aims to provide profitable, uncomplicated, and speedy solutions to our clients through technology-based strategy in the areas of recruitment, talent hiring, company branding, etc.
+what contents or services do you provide?
+We ease the process of staffing and recruitment by providing services like free job post,registration,candidate shortlisting etc.You can see more about our services <a href="https://www.profcess.com/services/">here</a>.
+are you a robot?
+Yes I’m a robot , but I’m a good one. Let me prove it.How can I help you?
+how can I reach you ?
+Kindly click on  <a href="https://www.profcess.com/contact/">Contact us </a>.
+contact
+Kindly click on  <a href="https://www.profcess.com/contact/">Contact us </a>.
+hire talent
+It’s an easy process. Kindly first signup for <a href="https://www.profcess.com/accounts/recruiter-signup/">Recruiter Signup</a>. Then navigate through our user-friendly browser.You’ll be able to select candidates and post required vacancy. Hope it helps!!
+find talent
+It’s an easy process. Kindly first signup for <a href="https://www.profcess.com/accounts/recruiter-signup/">Recruiter Signup</a>. Then navigate through our user-friendly browser.You’ll be able to select candidates and post required vacancy. Hope it helps!!
+i am recruiter
+It’s an easy process. Kindly first signup for <a href="https://www.profcess.com/accounts/recruiter-signup/">Recruiter Signup</a>. Then navigate through our user-friendly browser.You’ll be able to select candidates and post required vacancy. Hope it helps!!
+need candidate
+It’s an easy process. Kindly first signup for <a href="https://www.profcess.com/accounts/recruiter-signup/">Recruiter Signup</a>. Then navigate through our user-friendly browser.You’ll be able to select candidates and post required vacancy. Hope it helps!!
+hire candidate
+It’s an easy process. Kindly first signup for <a href="https://www.profcess.com/accounts/recruiter-signup/">Recruiter Signup</a>. Then navigate through our user-friendly browser.You’ll be able to select candidates and post required vacancy. Hope it helps!!
+what is the procedure to hire candidates?
+It’s an easy process. Kindly first signup for <a href="https://www.profcess.com/accounts/recruiter-signup/">Recruiter Signup</a>. Then navigate through our user-friendly browser.You’ll be able to select candidates and post required vacancy. Hope it helps!!
+How can I select candidates?
+It’s an easy process. Kindly first signup for <a href="https://www.profcess.com/accounts/recruiter-signup/">Recruiter Signup</a>. Then navigate through our user-friendly browser.You’ll be able to select candidates and post required vacancy. Hope it helps!!
+how to sign up for college?
+For College Sign-Up, click <a href="https://www.profcess.com/accounts/college-signup/">here</a>
+college sign up
+For College Sign-Up, click <a href="https://www.profcess.com/accounts/college-signup/">here</a>
+university sign up
+For College Sign-Up, click <a href="https://www.profcess.com/accounts/college-signup/">here</a>
+i’m looking for a job.
+The process is as smooth as silk. Kindly first signup for <a href="https://www.profcess.com/accounts/applicant-signup/">Applicant Signup</a>. Then set up your profile and that’s it. You can now apply and search for the companies. Hope it helps!!
+where can I find vacancies?
+The process is as smooth as silk. Kindly first signup for <a href="https://www.profcess.com/accounts/applicant-signup/">Applicant Signup</a>. Then set up your profile and that’s it. You can now apply and search for the companies. Hope it helps!!
+applicant sign up
+The process is as smooth as silk. Kindly first signup for <a href="https://www.profcess.com/accounts/applicant-signup/">Applicant Signup</a>. Then set up your profile and that’s it. You can now apply and search for the companies. Hope it helps!!
+contact details
+Kindly click on  <a href="https://www.profcess.com/contact/">Contact</a>.
+contact
+Kindly click on  <a href="https://www.profcess.com/contact/">Contact</a>.
+email-id
+This is the required email contact@profcess.com. Let me know if you need something else.
+what’s the contact?
+Kindly click on  <a href="https://www.profcess.com/contact/">Contact</a>.
+is there any email-id through which we can further clear my query?
+This is the required email<a href = "mailto: contact@profcess.com"> Email</a>
+email
+This is the required email<a href = "mailto: contact@profcess.com"> Email</a>
+not able to sign up
+First login then try to signup.
+not able to login
+What problem are you facing?
+wrong password
+Kindly enter correct password or set new password by clicking on forgot password.
+email id and password are correct but still not able to login
+Kindly wait for sometime, there might be server issue :)
+thanks
+It’s my pleasure to help you.
+thank you
+It’s my pleasure to help you.
+good work
+It’s my pleasure to help you.
+bye
+bye, Have  a good  day ☻.
+i want to be informed about the available jobs
+Kindly leave your email address and we’ll surely get back to you.
+what’s the duration of selection of candidates?
+It usually depends on the necessity of  job type and completely depends on recruiter.
+can I hire full time employee or interns?
+Yeah!! You are in the right place. You can hire both.
+what are the minimum requirements for applying for job?
+You just need your resume. For further details, you can contact us.
+can I make my resume here?
+Yes, sure.
+can I hire candidates from any college?
+Yes, sure.
+career advice.
+You’re in the right place. Do check our <i><a href="https://www.profcess.com/careerAdvice/">Career Advice</a></i> page. It’ll help you a lot.
+can I get location of company.
+It's located in Bhopal,Madhya Pradesh.<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d58764.79994467341!2d77.589915!3d22.994381000000004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397c4264f53d4a3f%3A0x486160c222eb4a92!2sHoshangabad%20Rd%2C%20Madhya%20Pradesh!5e0!3m2!1sen!2sin!4v1621242626628!5m2!1sen!2sin" width="250" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+are the services free of cost?
+We offer free services for trial.
+services
+Kindly click on  <a href="https://www.profcess.com/services/">Our Services</a>.
+recruitment
+Kindly navigate to Recruiter option.
+Looking for job
+What kind of job are you looking for?
+Looking for candidates!!
+Kindly navigate to Recruiter option.
+Looking for services
+<button  type="button" class="btn btn-primary btn-round"><a href="#">Free</a></button><button type="button" class="btn btn-primary btn-round"><a href="#">Paid</a></button>
+नमस्ते
+नमस्ते!आपका व्यक्तिगत चैटबॉट।आइए शुरू करते हैं।मुझसे साइट या हमारे द्वारा प्रदान की जाने वाली सामग्री के बारे में प्रश्न पूछें।
+आप कैसे हैं?
+मैं ठीक हूं आप कैसे हैं?
+मेरे पास सवाल है
+बेझिझक कुछ भी पूछें।मैं कैसे मदद कर सकता हूँ?
+मैं आप तक कैसे पहुँच सकता हूं ?
+कृपया <a href="https://www.profcess.com/contact/">contact</a> पर क्लिक करें।
+तुम कौन हो?
+नमस्ते। मैं एक चैटबॉट हूं। Process की सेवाओं के बारे में बात करना चाहते हैं? यदि आपका कोई प्रश्न है, तो शरमाएं नहीं।
+प्रोफ़ेसर क्या है?
+व्यावसायिक सफलता प्रो-सेस के लिए एक संक्षिप्त शब्द है जिसका उद्देश्य भर्ती, टैलेंट हायरिंग, कंपनी ब्रांडिंग आदि के क्षेत्रों में प्रौद्योगिकी-आधारित रणनीति के माध्यम से हमारे ग्राहकों को लाभदायक, सरल और त्वरित समाधान प्रदान करना है।
+आप कौन सी सेवाएं मुहैया करवाते हैं?
+हम मुफ्त नौकरी पोस्ट, पंजीकरण, उम्मीदवार शॉर्टलिस्टिंग इत्यादि जैसी सेवाएं प्रदान करके स्टाफिंग और भर्ती की प्रक्रिया को आसान बनाते हैं।
+क्या तुम रोबोट हो?
+हां मैं एक रोबोट हूं, लेकिन मैं एक अच्छा हूं। मुझे इसे साबित करने दो।मैं तुम्हारी कैसे मदद कर सकता हूँ?
+उम्मीदवारों को नियुक्त करने की प्रक्रिया क्या है? मैं उम्मीदवारों का चयन कैसे कर सकता हूं?
+यह एक आसान प्रक्रिया है। कृपया पहले <a href="https://www.profcess.com/accounts/recruiter-signup/">Recruiter Signup</a> के लिए साइनअप करें। फिर हमारे उपयोगकर्ता के अनुकूल ब्राउज़र के माध्यम से नेविगेट करें। आप उम्मीदवारों का चयन करने और आवश्यक रिक्ति पोस्ट करने में सक्षम होंगे। आशा है कि इससे सहायता मिलेगी!!
+कॉलेज के लिए साइन-अप कैसे करें?
+कॉलेज साइन-अप के लिए, <a href="https://www.profcess.com/accounts/college-signup/">यहां</a> क्लिक करें
+मैं नौकरी की तलाश में हूं।मुझे रिक्तियां कहां मिल सकती हैं?मैं नौकरी के लिए कहां आवेदन कर सकता हूं?
+प्रक्रिया रेशम की तरह चिकनी है। कृपया पहले <a href="https://www.profcess.com/accounts/applicant-signup/">आवेदक साइनअप</a> के लिए साइनअप करें। फिर अपना प्रोफ़ाइल सेट करें और बस। अब आप आवेदन कर सकते हैं और कंपनियों की खोज कर सकते हैं। आशा है कि इससे सहायता मिलेगी!!
+संपर्क विवरण ईमेल-आईडी संपर्क क्या है? क्या कोई ईमेल-आईडी है जिसके माध्यम से हम अपनी क्वेरी को और स्पष्ट कर सकते हैं?
+यह आवश्यक ईमेल और संपर्क नंबर है। अगर आपको कुछ और चाहिए तो मुझे बताएं।
+साइन अप करने में सक्षम नहीं
+ कृपया कुछ समय बाद प्रयास करें .
+धन्यवाद
+आपकी मदद करना मेरी खुशी है।
+अलविदा
+अलविदा, आपका दिन शुभ हो ☻.
+मैं उपलब्ध नौकरियों/उम्मीदवारों के बारे में सूचित किया जाना चाहता/चाहती हूं।
+कृपया अपना ईमेल पता छोड़ दें और हम निश्चित रूप से आपसे संपर्क करेंगे।
+उम्मीदवारों के चयन की अवधि क्या है?
+यह आमतौर पर नौकरी के प्रकार की आवश्यकता पर निर्भर करता है और पूरी तरह से भर्ती करने वाले पर निर्भर करता है।
+क्या मैं पूर्णकालिक कर्मचारी या इंटर्न रख सकता हूँ?
+हाँ !! तुम सही जगह पर हैं। आप दोनों को किराए पर ले सकते हैं।
+नौकरी के लिए आवेदन करने के लिए न्यूनतम आवश्यकताएं क्या हैं?
+आपको बस अपना बायोडाटा चाहिए। अधिक जानकारी के लिए आप हमसे संपर्क कर सकते हैं।
+क्या मैं अपना बायोडाटा यहाँ बना सकता हूँ?, क्या मैं किसी कॉलेज से उम्मीदवारों को नियुक्त कर सकता हूँ?
+हाँ यकीनन।
+पागल मूर्ख बेवकूफ बकवास
+कृपया विनम्र रहें
+कैरियर सलाह।
+आप सही जगह पर हैं। हमारा <i><a href="https://www.profcess.com/careerAdvice/">कैरियर सलाह</a></i> पेज जरूर देखें। यह आपकी बहुत मदद करेगा।
+क्या मुझे कंपनी की लोकेशन मिल सकती है।.<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d58764.79994467341!2d77.589915!3d22.994381000000004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397c4264f53d4a3f%3A0x486160c222eb4a92!2sHoshangabad%20Rd%2C%20Madhya%20Pradesh!5e0!3m2!1sen!2sin!4v1621242626628!5m2!1sen!2sin" width="250" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+क्या सेवाएं मुफ्त हैं?
+हम परीक्षण के लिए मुफ्त सेवाएं प्रदान करते हैं।
+सेवाएं
+आप किस प्रकार की सेवाओं का उपयोग करना चाहते हैं।
+भर्ती
+उम्मीदवारों की तलाश है !! कृपया रिक्रूटर विकल्प पर नेविगेट करें।
+नौकरी की तलाश
+आप किस प्रकार की नौकरी ढूंढ रहे हैं?
+twitter
+click on <a href="https://twitter.com/ProfCess" >twitter</a>
+facebook
+click on <a href="https://www.facebook.com/ProfCess-2406155253003978/  " >facebook</a>
+insta
+click on <a href="https://instagram.com/profcess?igshid=1otmnrq2o0yru  " >instagram</a>
+instagram
+click on <a href="https://instagram.com/profcess?igshid=1otmnrq2o0yru  " >instagram</a>
+linkedin
+click on <a href="https://www.linkedin.com/company/profcess  " >linkedin</a>
+whatsapp
+click on <a href="https://wa.me/917693928001  " >whatsapp</a>
+Registered Companies
+ we have 114+ registered companies till now.
+Applicants
+we have 5175+ applicants till now
+Careers made till date
+ 450+
+College's partnered
+we have connected with 32+ colleges till now.
+internship
+yes kindly  <a href="https://www.profcess.com/contact/">contact</a
+i need internship
+yes kindly  <a href="https://www.profcess.com/contact/">contact</a
+are internship available?
+yes kindly  <a href="https://www.profcess.com/contact/">contact</a
+companies registered
+kindly click on our website  <a href="https://www.profcess.com/">profcess</a
+i need work
+The process is as smooth as silk. Kindly first signup for <a href="https://www.profcess.com/accounts/applicant-signup/">Applicant Signup</a>. Then set up your profile and that’s it. You can now apply and search for the companies. Hope it helps!!
+i want to work
+The process is as smooth as silk. Kindly first signup for <a href="https://www.profcess.com/accounts/applicant-signup/">Applicant Signup</a>. Then set up your profile and that’s it. You can now apply and search for the companies. Hope it helps!!
+i need job
+The process is as smooth as silk. Kindly first signup for <a href="https://www.profcess.com/accounts/applicant-signup/">Applicant Signup</a>. Then set up your profile and that’s it. You can now apply and search for the companies. Hope it helps!!
+i want job
+The process is as smooth as silk. Kindly first signup for <a href="https://www.profcess.com/accounts/applicant-signup/">Applicant Signup</a>. Then set up your profile and that’s it. You can now apply and search for the companies. Hope it helps!!
+need job
+The process is as smooth as silk. Kindly first signup for <a href="https://www.profcess.com/accounts/applicant-signup/">Applicant Signup</a>. Then set up your profile and that’s it. You can now apply and search for the companies. Hope it helps!!
+tips for writing cv
+A Detailed document highlighting your professional and academic history.
+cv
+A Detailed document highlighting your professional and academic history.
+writing cv
+A Detailed document highlighting your professional and academic history.
+tips for interview
+A structured conversation where interviewer ask few questions and candidate is supposed to answer.
+interview tips
+A structured conversation where interviewer ask few questions and candidate is supposed to answer.
+interview
+A structured conversation where interviewer ask few questions and candidate is supposed to answer.
+forgot password
+kindly click on <a href="https://www.profcess.com/accounts/password_reset/">Password Reset</a>
+password reset
+kindly click on <a href="https://www.profcess.com/accounts/password_reset/">Password Reset</a>
+login
+kindly click on <a href="https://www.profcess.com/accounts/login/">Login</a>
+login problem
+kindly try some times later.
+ceo
+Ghanendra Shrivastava
+ceo of profcess
+Ghanendra Shrivastava
+ceo of your company
+Ghanendra Shrivastava
+your company ceo
+Ghanendra Shrivastava

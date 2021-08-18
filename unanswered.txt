@@ -1,0 +1,1 @@
+{'text': 'twenty'}{'text': 'what is ai'}{'text': 'apple'}{'text': 'sign'}{'text': 'sign up'}

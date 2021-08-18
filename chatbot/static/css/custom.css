@@ -1,0 +1,88 @@
+/* Alternate the background color of the output and input rows & applied float */
+.list-group-item:nth-child(even){
+    background-color: #20B2AA;
+    border: 0 !important;
+    margin: 10px;
+    padding: 10px 15px;
+    clear: both;
+    display: table;
+    margin:5px 0;
+    float:right;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -border-radius: 10px;
+    border-radius: 10px;
+
+}
+.list-group-item:nth-child(odd){
+    background-color: white;
+    border: 0 !important;
+    margin: 10px;
+    padding: 10px 15px;
+    clear: both;
+    display: table;
+    margin:5px 0;
+    float:left;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -border-radius: 10px;
+    border-radius: 10px;
+
+}
+
+
+
+container {
+  margin: 0 auto;
+  width: 750px;
+  background: #444753;
+  border-radius: 5px;
+}
+
+
+
+ ul {
+    padding: 10px;
+    height: 450px;
+
+    }
+
+
+    li {
+      padding-bottom: 10px;
+
+    }
+
+.chat-log {
+   margin: 0 auto;
+  width: 500px;
+    opacity:0.8;
+  border-radius: 5px;
+   overflow-y:auto;
+
+background: url("/static/img/chat.png")
+}
+
+
+.navbar{
+  left: 270px;
+  right:180px;
+  width:48%;
+  height:35px;
+  font-family: "serif";
+    background-color: #006666;
+ font-size: large;
+ color:white;
+}
+.btn{
+   background-color: #006666;
+   color:white;
+}
+/* for button used in ques_ans.txt */
+.btn-round{
+border-radius: 17px;
+ background-color: #48D1CC;
+ color:white;
+ margin:5px;
+width:45%;
+}

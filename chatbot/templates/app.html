@@ -1,0 +1,209 @@
+{% load staticfiles %}
+{% csrf_token %}
+<!-- -->
+<!doctype html>
+<html>
+  <head>
+    <title>Django ChatterBot Example</title>
+    <link rel="stylesheet" href="{% static 'css/bootstrap.css' %}"/>
+    <link rel="stylesheet" href="{% static 'css/custom.css' %}"/>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+  </head>
+
+  <body>
+
+{% load static %}
+
+    <div class="container">
+
+      <div class="jumbotron mt-1">
+
+
+
+
+          <nav class="navbar navbar-dark  col-lg-6"><center>PROFCESS BOT!!</center>
+
+</nav>
+        <div class="row">
+          <div class="col-xs-6 offset-xs-3">
+
+            <ul class="list-group chat-log js-chat-log">
+
+              <li class="list-group-item" id="in">Welcome to Profcess !! We are here for you! Let us know if you have some questions.
+
+              </li>
+
+            </ul>
+
+            <div class="input-group input-group" id="s1">
+              <input id="ab" type="text" class="form-control js-text" placeholder="Type your message...">
+              <span class="input-group-btn">
+                   <button class="btn" style="font-size:20px" id="bn"><i class="fa fa-microphone"  id="mic"></i></button>
+
+                  <button class="btn  js-say" id="s2">Send</button>
+              </span>
+            </div>
+
+          </div>
+        </div>
+
+      </section>
+
+    </div>
+
+    <script src="{% static 'js/jquery.js' %}"></script>
+    <script src="{% static 'js/js.cookie.js' %}"></script>
+    <script src="{% static 'js/bootstrap.js' %}"></script>
+
+    <script>
+        var chatterbotUrl = '{% url "chatterbot" %}';
+      var csrftoken = Cookies.get('csrftoken');
+
+      function csrfSafeMethod(method) {
+        // these HTTP methods do not require CSRF protection
+        return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+      }
+
+      $.ajaxSetup({
+        beforeSend: function(xhr, settings) {
+          if (!csrfSafeMethod(settings.type) && !this.crossDomain) {
+            xhr.setRequestHeader("X-CSRFToken", csrftoken);
+          }
+        }
+      });
+
+      var $chatlog = $('.js-chat-log');
+      var $input = $('.js-text');
+      var $sayButton = $('.js-say');
+
+      function createRow(text) {
+        var $row = $('<li class="list-group-item " ></li>');
+
+        $row.html(text);
+        $chatlog.append($row);
+      }
+
+      function submitInput() {
+        var inputData = {
+          'text': $input.val()
+        }
+
+        // Display the user's input on the web page
+        createRow(inputData.text);
+
+        var $submit = $.ajax({
+          type: 'POST',
+          url: chatterbotUrl,
+          data: JSON.stringify(inputData),
+          contentType: 'application/json'
+        });
+
+        $submit.done(function(statement) {
+            createRow(statement.text);
+
+            // Clear the input field
+            $input.val('');
+
+            // Scroll to the bottom of the chat interface
+            $chatlog[0].scrollTop = $chatlog[0].scrollHeight;
+        });
+
+        $submit.fail(function() {
+          // TODO: Handle errors
+        });
+      }
+
+      $sayButton.click(function() {
+        submitInput();
+      });
+
+      $input.keydown(function(event) {
+        // Submit the input when the enter button is pressed
+        if (event.keyCode == 13) {
+          submitInput();
+        }
+      });
+
+
+      var recognition;
+initDictation();
+function initDictation() {
+  const SpeechRecognition = window.SpeechRecognition ||
+window.webkitSpeechRecognition;
+  if (!SpeechRecognition) {
+    return
+  }
+    recognition = new SpeechRecognition();
+    recognition.continuous = true;
+    recognition.onresult = function(event) {
+        if (event.results.length > 0) {
+            var current = event.results[event.results.length-1][0]
+            var result = current.transcript;
+            console.log(result)
+            //continue here to append to your textarea or input
+            	document.getElementById("ab").value=result;
+        }
+    }
+}
+
+
+$("#mic").click(function(){
+    if (! recognition) {
+      console.log("speech recognition API not available")
+      return;
+    }
+    try {
+        $(this).removeClass("fa-microphone-slash")
+        $(this).addClass("fa-microphone blink")
+        recognition.start()
+    } catch (error) {
+        $(this).removeClass("fa-microphone blink")
+        $(this).addClass("fa-microphone-slash")
+        recognition.stop() //already started - toggle
+    }
+})
+//What does profcess offer
+ function r() {
+
+  document.getElementById("out").innerHTML = createRow("We ease the process of staffing and recruitment by <br> providing services like free job post,registration,candidate shortlisting etc.");
+}
+//Searching for job
+function r1() {
+
+  document.getElementById("out").innerHTML = createRow("We want job seekers and employers to connect directly.<br> After you find the right job, you’re sent straight to the employer’s details to apply.No fuss!!");
+
+}
+//Recruitment
+function r2() {
+
+  document.getElementById("out").innerHTML = createRow("You can post the job and also go through candidates' CV.<br>Tell us your criteria and our team of experts will take care of your hiring worries.");
+}
+//Services
+function r3() {
+
+  document.getElementById("out").innerHTML = createRow("1. Search Talent <br> 2. Campus Recruitment<br> 3. Apply for jobs<br> For more, visit our services page.");
+}
+
+    </script>
+  </body>
+</html>
+<style>
+
+
+@keyframes blink {
+    0% { color: #6161f4; }
+    100% { color: black; }
+}
+@-webkit-keyframes blink {
+    0% { color: #6161f4; }
+    100% { color: black; }
+}
+.blink {
+    -webkit-animation: blink 2s linear infinite;
+    -moz-animation: blink 2s linear infinite;
+    animation: blink 2s linear infinite;
+}
+
+</style>
